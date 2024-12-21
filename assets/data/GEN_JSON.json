@@ -1,0 +1,276 @@
+{
+  "id": "course-001",
+  "title": "Meme Coin Masterclass",
+  "description": "This course teaches you how to effectively navigate the world of meme coins. Learn strategies on how to sell at the right time to maximize your returns.",
+  "modules": [
+    {
+      "id": "module-001",
+      "title": "Introduction to Meme Coins",
+      "description": "Understand what meme coins are, their relevance in the crypto market, and the psychology behind their popularity.",
+      "lessons": [
+        {
+          "id": "lesson-001",
+          "title": "What Are Meme Coins?",
+          "content": [
+            {
+              "type": "text",
+              "data": "Meme coins are types of cryptocurrency that are largely driven by social media hype, community engagement, and a touch of humor. While some meme coins have significant backing, others tend to emerge from social platforms without much intrinsic value."
+            },
+            {
+              "type": "image",
+              "src": "https://www.bankrate.com/brp/2022/08/18134644/Bitcoin-vs.-Ethereum-vs.-Dogecoin-Top-cryptocurrencies-compared.jpeg?auto=webp&optimize=high&crop=16:9",
+              "alt": "A visual representation of popular meme coins."
+            },
+            {
+              "type": "text",
+              "data": "The phenomenon began with Dogecoin and has flourished with various derivatives and new entries. Understanding the nature of these coins is essential if you're looking to make informed decisions."
+            }
+          ]
+        },
+        {
+          "id": "lesson-002",
+          "title": "Why Do Meme Coins Matter?",
+          "content": [
+            {
+              "type": "text",
+              "data": "Meme coins capture the imagination and engage communities that traditional coins may not. They can offer high returns on investment but also come with risks. Knowledge of market trends is essential."
+            },
+            {
+              "type": "image",
+              "src": "https://www.bestbrokers.com/wp-content/uploads/2024/06/increase-in-the-popularity-of-meme-coins.png",
+              "alt": "A chart showing the increase in meme coin popularity."
+            },
+            {
+              "type": "text",
+              "data": "With community-driven pricing, the ability to determine when to sell can differentiate successful traders from those who incur losses."
+            }
+          ]
+        },
+        {
+          "id": "lesson-003",
+          "title": "Analyzing the Market Trends",
+          "content": [
+            {
+              "type": "text",
+              "data": "Market trends can be influenced by various factors including social media trends, celebrity endorsements, and broader cryptocurrency market conditions. Learning how to analyze these trends can significantly improve your selling strategy."
+            },
+            {
+              "type": "image",
+              "src": "https://ai.flux-image.com/flux/93fe71f2-f2fe-491a-890f-4c8655321225.jpg",
+              "alt": "Graph of meme coin market trends over time."
+            },
+            {
+              "type": "text",
+              "data": "Students will learn how to use market analysis tools to identify signals that indicate the best times to sell."
+            }
+          ]
+        }
+      ],
+      "quiz": {
+        "id": "quiz-001",
+        "questions": [
+          {
+            "id": "question-001",
+            "prompt": "What is a meme coin?",
+            "options": [
+              "A cryptocurrency backed by a physical asset",
+              "A cryptocurrency that is driven by social media hype",
+              "A traditional fiat currency",
+              "None of the above"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "id": "question-002",
+            "prompt": "Why is market trend analysis important for meme coins?",
+            "options": [
+              "Because meme coins are always safe investments",
+              "Because it helps to identify when to buy or sell",
+              "It is not important at all",
+              "None of the above"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-002",
+      "title": "Strategies for Timing Your Sales",
+      "description": "Learn various strategies to identify the optimal selling time for your meme coins.",
+      "lessons": [
+        {
+          "id": "lesson-004",
+          "title": "Recognizing Hype Cycles",
+          "content": [
+            {
+              "type": "text",
+              "data": "Hype cycles can be recognized by sudden spikes in social media engagement, volume of transactions, or price. Students will learn to identify these cycles."
+            },
+            {
+              "type": "image",
+              "src": "https://www.researchgate.net/publication/349469430/figure/fig1/AS:993457233465344@1613870070583/Gartners-hype-cycle-provides-a-graphic-illustration-of-the-maturity-and-deployment-of.png",
+              "alt": "A diagram illustrating hype cycles."
+            }
+          ]
+        },
+        {
+          "id": "lesson-005",
+          "title": "Using Technical Indicators",
+          "content": [
+            {
+              "type": "text",
+              "data": "Technical indicators like Moving Averages and RSI (Relative Strength Index) can provide insights into when to execute a sale. Understanding these indicators will be covered in this lesson."
+            },
+            {
+              "type": "image",
+              "src": "https://cdn.corporatefinanceinstitute.com/assets/Picture1.png",
+              "alt": "Example of a technical analysis chart."
+            }
+          ]
+        },
+        {
+          "id": "lesson-006",
+          "title": "Emotions and Trading Psychology",
+          "content": [
+            {
+              "type": "text",
+              "data": "Understanding your emotions and those of the market can prevent poor trading decisions. Students will learn techniques to manage emotions while trading."
+            }
+          ]
+        }
+      ],
+      "interactiveActivities": [
+        {
+          "id": "activity-001",
+          "type": "matching",
+          "instructions": "Match the terms with their definitions.",
+          "pairs": [
+            {
+              "value": "Hype Cycle",
+              "pair": "A pattern of excitement followed by disillusionment."
+            },
+            {
+              "value": "RSI",
+              "pair": "A measure that determines overbought or oversold conditions."
+            },
+            {
+              "value": "FOMO",
+              "pair": "Fear of missing out on potential gains."
+            },
+            {
+              "value": "Technical Analysis",
+              "pair": "Using historical price data to forecast future price movements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "module-003",
+      "title": "Executing Your Sale",
+      "description": "Learn the factors to consider before executing a sell order.",
+      "lessons": [
+        {
+          "id": "lesson-007",
+          "title": "Setting Sell Orders",
+          "content": [
+            {
+              "type": "text",
+              "data": "Setting sell orders can allow you to automate the selling process. Knowing how to set both limit and stop-loss orders is crucial."
+            }
+          ]
+        },
+        {
+          "id": "lesson-008",
+          "title": "Avoiding Common Mistakes",
+          "content": [
+            {
+              "type": "text",
+              "data": "Many traders make common mistakes when selling their meme coins, such as panic selling or setting unrealistic targets. This lesson will highlight these pitfalls."
+            }
+          ]
+        },
+        {
+          "id": "lesson-009",
+          "title": "Calculating Your Profits",
+          "content": [
+            {
+              "type": "text",
+              "data": "Understanding how to calculate your profits will give you a clearer picture of your returns. We will go over formulas and examples to illustrate these calculations."
+            }
+          ]
+        }
+      ],
+      "quiz": {
+        "id": "quiz-002",
+        "questions": [
+          {
+            "id": "question-003",
+            "prompt": "What is the purpose of setting a stop-loss order?",
+            "options": [
+              "To increase your profits",
+              "To prevent further losses",
+              "To encourage more trading",
+              "None of the above"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "id": "question-004",
+            "prompt": "What is one common mistake traders make?",
+            "options": [
+              "Only selling during a market downturn",
+              "Holding onto coins indefinitely",
+              "Implementing a sell strategy",
+              "Both A and B"
+            ],
+            "correctIndex": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": "module-004",
+      "title": "After the Sale: What Next?",
+      "description": "Explore what to do after selling your meme coins effectively.",
+      "lessons": [
+        {
+          "id": "lesson-010",
+          "title": "Reinvesting Your Profits",
+          "content": [
+            {
+              "type": "text",
+              "data": "Once you've sold, the next step is to consider reinvesting your profits. Strategies for investing in high-potential assets will be discussed."
+            }
+          ]
+        },
+        {
+          "id": "lesson-011",
+          "title": "Tax Implications",
+          "content": [
+            {
+              "type": "text",
+              "data": "Understanding the tax implications of selling cryptocurrency is vital. This lesson will cover what you need to report and how to prepare for tax season."
+            }
+          ]
+        },
+        {
+          "id": "lesson-012",
+          "title": "Community Engagement",
+          "content": [
+            {
+              "type": "text",
+              "data": "Engaging with the community can be beneficial for staying informed about market trends. Learn how to involve yourself in forums and social media platforms."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "primaryColor": "#ff6347",
+    "secondaryColor": "#ffd700",
+    "fontFamily": "Arial, sans-serif"
+  }
+}
